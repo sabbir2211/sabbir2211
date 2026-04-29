@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hello%2C%20I'm%20a%20Developer%20👋&fontSize=50&fontAlignY=40&desc=Passionate%20about%20building%20amazing%20things&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hello%2C%20I'm%20%20SABBIR%20👋&fontSize=50&fontAlignY=40&desc=Passionate%20about%20building%20amazing%20things&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00d4ff&center=true&vCenter=true&width=435&lines=Hello+World!👋;I'm+Sabbir+Ahmed;Full+Stack+Developer;Always+Learning+🚀)
@@ -29,38 +29,14 @@
   </h2>
 </div>
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sabbir2211.sabbir2211" alt="Visitor Counter" />
 
-<pre><code class="language-javascript">
-const developer = {
-    name: "Sabbir Ahmed",
-    role: "Full Stack Developer", 
-    location: "🌍 Bangladesh",
-    languages: ["JavaScript", "Python", "Java", "C++"],
-    frameworks: ["React", "Node.js", "Django", "Spring Boot"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
-    tools: ["Docker", "Kubernetes", "AWS", "Git"],
-    currentFocus: "Building scalable web applications",
-    funFact: "I turn coffee into code ☕➡️💻",
+- 🌱 বর্তমানে নতুন নতুন **Web Technologies** শিখছি।
+- 💬 আমার সম্পর্কে বিস্তারিত জানতে **JavaScript, React এবং Node.js** নিয়ে আলোচনা করুন।
+- ⚡ মজার তথ্য: আমি কোডিং এর চেয়ে বাগ ফিক্স করতে বেশি পছন্দ করি! 😅
+- 🎯 লক্ষ্য: একজন বিশেষজ্ঞ **Software Engineer** হওয়া।
 
-    sayHi: function() {
-        console.log("Thanks for visiting my profile! 🚀");
-    }
-};
-
-developer.sayHi();
-</code></pre>
-
-</td>
-<td width="40%">
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir2211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" alt="Top Languages" width="100%"/>
-</div>
-</td>
-</tr>
-</table>
+<br clear="both">
 
 <!-- Tech Stack Section -->
 <div align="center">
@@ -130,7 +106,7 @@ GitHub Analytics
 <!-- Featured Projects Section -->
 <div align="center">
 <h2>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBhaG00NG02NDEzOHc4NHFybHo5MGF4a3djZWd1Mjdsenk3MnEydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JisLUwrUDtkcwolXse/giphy.gif" width="45">
 Featured Projects
 </h2>
 </div>
@@ -147,15 +123,15 @@ Featured Projects
 </a>
 </div>
 
-<!-- Trophies Section -->
+<!-- Trophies Section 
 <div align="center">
 <h2>
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtoeTR3aHdoOTl1a3Zna3Q0NHN1NG1iOTNwdWZyYnpqNjZwbHY3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4uDf78VISs7ugnB9fX/giphy.gif" width="45">
 GitHub Trophies
 </h2>
 <img src="https://github-profile-trophy.vercel.app/?username=sabbir2211&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
 </div>
-
+-->
 <!-- Connect Section -->
 <div align="center">
 <h2>
@@ -181,21 +157,7 @@ Let's Connect
 </p>
 </div>
 
-<!-- Random Dev Quote -->
-<div align="center">
-<h2>💡 Random Dev Quote</h2>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" alt="Dev Quote" />
-</div>
 
-<!-- Snake Animation - Requires GitHub Action -->
-<div align="center">
-<h2>🐍 Contribution Snake</h2>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabbir2211/sabbir2211/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabbir2211/sabbir2211/output/github-contribution-grid-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/sabbir2211/sabbir2211/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
 
 <!-- Footer -->
 <div align="center">
