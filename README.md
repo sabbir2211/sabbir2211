@@ -1,117 +1,209 @@
 <div align="center">
-  
-<!-- ঢেউ খেলানো টপ বর্ডার -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hello%2C%20I'm%20SABBIR&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=16&descAlignY=55" width="100%" />
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hello%2C%20I'm%20a%20Developer%20👋&fontSize=50&fontAlignY=40&desc=Passionate%20about%20building%20amazing%20things&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<!-- টাইপিং ইফেক্ট -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Crafting+Digital+Experiences+%F0%9F%9A%80;Clean+Code+Advocate;Always+Learning%2C+Always+Building..." alt="Typing SVG" />
+<!-- Typing Animation -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00d4ff&center=true&vCenter=true&width=435&lines=Hello+World!👋;I'm+Sabbir+Ahmed;Full+Stack+Developer;Always+Learning+🚀)
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=sabbir2211&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<!-- Social Badges - Fixed URLs -->
+<a href="https://github.com/sabbir2211">
+  <img src="https://img.shields.io/github/followers/sabbir2211?style=for-the-badge&logo=github&color=00d4ff&labelColor=0d1117" alt="GitHub Followers"/>
 </a>
-
+<a href="https://github.com/sabbir2211?tab=repositories">
+  <img src="https://img.shields.io/github/stars/sabbir2211?style=for-the-badge&logo=github&color=ffd700&labelColor=0d1117" alt="GitHub Stars"/>
+</a>
 </div>
 
-<!-- আমার সম্পর্কে সেকশন -->
-## 👨‍💻 About Me
+---
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sabbir2211.sabbir2211" alt="Visitor Counter" />
+<!-- About Me Section -->
 
-- 🌱 বর্তমানে নতুন নতুন **Web Technologies** শিখছি।
-- 💬 আমার সম্পর্কে বিস্তারিত জানতে **JavaScript, React এবং Node.js** নিয়ে আলোচনা করুন।
-- ⚡ মজার তথ্য: আমি কোডিং এর চেয়ে বাগ ফিক্স করতে বেশি পছন্দ করি! 😅
-- 🎯 লক্ষ্য: একজন বিশেষজ্ঞ **Software Engineer** হওয়া।
+<!-- About Me Section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    About Me
+  </h2>
+</div>
 
-<br clear="both">
+<table>
+<tr>
+<td width="60%">
 
-<!-- স্কিল সেকশন -->
-## 🛠️ Tech Stack & Tools
+<pre><code class="language-javascript">
+const developer = {
+    name: "Sabbir Ahmed",
+    role: "Full Stack Developer", 
+    location: "🌍 Bangladesh",
+    languages: ["JavaScript", "Python", "Java", "C++"],
+    frameworks: ["React", "Node.js", "Django", "Spring Boot"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+    tools: ["Docker", "Kubernetes", "AWS", "Git"],
+    currentFocus: "Building scalable web applications",
+    funFact: "I turn coffee into code ☕➡️💻",
+
+    sayHi: function() {
+        console.log("Thanks for visiting my profile! 🚀");
+    }
+};
+
+developer.sayHi();
+</code></pre>
+
+</td>
+<td width="40%">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir2211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" alt="Top Languages" width="100%"/>
+</div>
+</td>
+</tr>
+</table>
+
+<!-- Tech Stack Section -->
+<div align="center">
+<h2>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+Tech Stack
+</h2>
+</div>
 
 <div align="center">
-  
-<!-- ল্যাঙ্গুয়েজ -->
+<!-- Languages -->
+<h4>💻 Languages</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=light" height="40" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,go,rust&theme=dark" />
 </p>
 
-<!-- ফ্রন্টএন্ড -->
+<!-- Frontend -->
+<h4>🎨 Frontend</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,sass&theme=light" height="40" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,html,css,tailwind,sass,bootstrap&theme=dark" />
 </p>
 
-<!-- ব্যাকএন্ড ও ডাটাবেজ -->
+<!-- Backend -->
+<h4>⚙️ Backend</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,graphql&theme=light" height="40" alt="Backend & Database" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,fastapi,graphql&theme=dark" />
 </p>
 
-<!-- টুলস -->
+<!-- Database -->
+<h4>🗄️ Database</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,vscode&theme=light" height="40" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,sqlite&theme=dark" />
 </p>
 
+<!-- DevOps & Tools -->
+<h4>🛠️ DevOps & Tools</h4>
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,git,github,linux,vscode,figma&theme=dark" />
+</p>
 </div>
 
-<!-- GitHub স্ট্যাটস সেকশন -->
-## 📊 GitHub Analytics
-
+<!-- GitHub Stats Section -->
 <div align="center">
-  
-<!-- স্ট্যাটিস্টিক কার্ড -->
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sabbir2211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-  
-<!-- স্ট্রিক কার্ড -->
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir2211&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-
-</div>
-<br>
-
-<div align="center">
-  
-<!-- ল্যাঙ্গুয়েজ ও টপ কন্ট্রিবিউশন কার্ড -->
-<img width="420px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabbir2211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-  
-<!-- অ্যাক্টিভিটি গ্রাফ -->
-<img width="420px" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=sabbir2211&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-
+<h2>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+GitHub Analytics
+</h2>
 </div>
 
-<!-- ফিচার্ড প্রজেক্ট সেকশন -->
-## 🚀 Featured Projects
-
 <div align="center">
-
-<!-- প্রজেক্ট ১ -->
-<a href="https://github.com/sabbir2211/PROJECT_1_LINK" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sabbir2211&repo=PROJECT_1_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&show_owner=true" />
-</a>
-&nbsp;
-<!-- প্রজেক্ট ২ -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_2_LINK" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_2_REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&show_owner=true" />
-</a>
-
-</div>
-<br>
-
-<!-- সোশ্যাল মিডিয়া ও কানেক্ট সেকশন -->
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="mailto:your.sabbirahammed2211@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://portfolio-website.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=sabbir2211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir2211&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ffd700&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
 </div>
 
-<!-- বটম ঢেউ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sabbir2211&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffd700" width="95%" alt="Contribution Graph"/>
+</div>
+
+<!-- Featured Projects Section -->
+<div align="center">
+<h2>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+Featured Projects
+</h2>
+</div>
+
+<div align="center">
+<!-- Project 1 - Replace with your actual repos -->
+<a href="https://github.com/sabbir2211/project1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sabbir2211&repo=project1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
+</a>
+&nbsp;&nbsp;
+<!-- Project 2 -->
+<a href="https://github.com/sabbir2211/project2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sabbir2211&repo=project2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
+</a>
+</div>
+
+<!-- Trophies Section -->
+<div align="center">
+<h2>
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30">
+GitHub Trophies
+</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=sabbir2211&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<!-- Connect Section -->
+<div align="center">
+<h2>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+Let's Connect
+</h2>
+<p>
+<a href="https://linkedin.com/in/sabbir2211" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/sabbir2211" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+</a>
+<a href="https://dev.to/sabbir2211" target="_blank">
+<img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0A0A" alt="Dev.to"/>
+</a>
+<a href="mailto:sabbir@example.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+</a>
+<a href="https://sabbir2211.github.io" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=00C853" alt="Portfolio"/>
+</a>
+</p>
+</div>
+
+<!-- Random Dev Quote -->
+<div align="center">
+<h2>💡 Random Dev Quote</h2>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" alt="Dev Quote" />
+</div>
+
+<!-- Snake Animation - Requires GitHub Action -->
+<div align="center">
+<h2>🐍 Contribution Snake</h2>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sabbir2211/sabbir2211/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sabbir2211/sabbir2211/output/github-contribution-grid-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/sabbir2211/sabbir2211/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
+
+<!-- Footer -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=fadeIn" width="100%"/>
+<p>
+<img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-sabbir2211-00d4ff?style=for-the-badge&labelColor=0d1117" alt="Made with love"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/⭐_Star_Some_Repos_If_You_Like_My_Work-ffd700?style=for-the-badge&labelColor=0d1117" alt="Star Repos"/>
+</p>
 </div>
