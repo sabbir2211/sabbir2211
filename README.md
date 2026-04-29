@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Octal%20Corporation&fontSize=40&fontColor=ffffff"/>
 </p><!-- Profile Image + Intro --><p align="center">
   <img src="https://avatars.githubusercontent.com/u/sabbir2211?v=4" width="120" style="border-radius:50%" />
-</p><h2 align="center">Hi 👋, I'm Octal Corporation</h2>
+</p><h2 align="center">Hi 👋, I'm SABBIR From :: Octal Corporation :: </h2>
 <p align="center">
 💻 Full Stack Developer | 🚀 SaaS Builder | ⚡ Tech Enthusiast
 </p>---
