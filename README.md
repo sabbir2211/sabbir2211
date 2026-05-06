@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hello%2C%20I'm%20%20SABBIR%20👋🏼&fontSize=50&fontAlignY=40&desc=Passionate%20about%20building%20amazing%20things&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00d4ff&center=true&vCenter=true&width=435&lines=Hello+World!👋🏼;I'm+Sabbir+Ahmed;Full+Stack+Developer;Always+Learning+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00d4ff&center=true&vCenter=true&width=435&lines=Hello+World!👋🏼;I'm+Sabbir+Ahammed;Full+Stack+Developer;Always+Learning+🚀)
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=sabbir2211&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -17,10 +17,6 @@
 </a>
 </div>
 
----
-
-<!-- About Me Section -->
-
 <!-- About Me Section -->
 <div align="center">
   <h2>
@@ -29,8 +25,9 @@
   </h2>
 </div>
 
+<!--
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sabbir2211.sabbir2211" alt="Visitor Counter" />
-
+-->
 
 <br />
 <br />
@@ -149,7 +146,7 @@ Let's Connect
 
 <div align="center">
 <p>
-<a href="https://linkedin.com/in/sabbir2211" target="_blank">
+<a href="https://linkedin.com/in/sas-xd" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/sabbir2211" target="_blank">
@@ -158,7 +155,7 @@ Let's Connect
 <a href="https://dev.to/sabbir2211" target="_blank">
 <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0A0A" alt="Dev.to"/>
 </a>
-<a href="mailto:sabbir@example.com" target="_blank">
+<a href="mailto:sas.niterbd@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
 </a>
 <a href="https://sabbir2211.github.io" target="_blank">
