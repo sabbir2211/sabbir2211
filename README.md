@@ -24,24 +24,30 @@
 <!-- About Me Section -->
 <div align="center">
   <h2>
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVhcDhsaTA5ZHV0Y2dxaHY2dW8wejFzMHdvcGZ0amlhem1neXR4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iTvrxOWkpnYgwtYMxR/giphy.gif" width="35">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVhcDhsaTA5ZHV0Y2dxaHY2dW8wejFzMHdvcGZ0amlhem1neXR4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iTvrxOWkpnYgwtYMxR/giphy.gif" width="40">
     About Me
   </h2>
 </div>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sabbir2211.sabbir2211" alt="Visitor Counter" />
 
+
+<br />
+<br />
+
 - 🌱 বর্তমানে নতুন নতুন **Web Technologies** শিখছি।
 - 💬 আমার সম্পর্কে বিস্তারিত জানতে **JavaScript, React এবং Node.js** নিয়ে আলোচনা করুন।
 - ⚡ মজার তথ্য: আমি কোডিং এর চেয়ে বাগ ফিক্স করতে বেশি পছন্দ করি! 😅
 - 🎯 লক্ষ্য: একজন বিশেষজ্ঞ **Software Engineer** হওয়া।
+
+<br />
 
 <br clear="both">
 
 <!-- Tech Stack Section -->
 <div align="center">
 <h2>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJjaGt6ZXc3azJybW5zb2JqanI3Ymlmbzk2b29pd3I0YWdnbDZkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GxcptIyuOwo1CjnIl1/giphy.gif" width="40">
 Tech Stack
 </h2>
 </div>
@@ -81,7 +87,7 @@ Tech Stack
 <!-- GitHub Stats Section -->
 <div align="center">
 <h2>
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlpYzY2cnVvYjM1OXdnMTNucW94YXVmam9tb3ljd3djamg4aHdmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n5U0Pf7SRB5UbA4d6u/giphy.gif" width="45">
 GitHub Analytics
 </h2>
 </div>
@@ -106,7 +112,7 @@ GitHub Analytics
 <!-- Featured Projects Section -->
 <div align="center">
 <h2>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTIwdHM1ZHJwMDR4ODc5ZjlmcXJ4czU0MWNpY2owbmU1eXU3cjY4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ph4ZgvibKhSZpezdyi/giphy.gif" width="35">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTIwdHM1ZHJwMDR4ODc5ZjlmcXJ4czU0MWNpY2owbmU1eXU3cjY4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ph4ZgvibKhSZpezdyi/giphy.gif" width="45">
 Featured Projects
 </h2>
 </div>
@@ -132,12 +138,16 @@ GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=sabbir2211&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
 </div>
 -->
+
 <!-- Connect Section -->
 <div align="center">
 <h2>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam00MGp5bzJqYXpqeGE5YXl3aDR4YmU2OTJoMTF5Y2g0ajU2aGhocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sWQCF6RxYQN7rjSXQE/giphy.gif" width="35">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZ5aWw1NDNnYmV5OHlpaTlic25wejg3dTBnbDVwYm5waml0Nm43eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zutn0ZHNv5x1FbUbFu/giphy.gif" width="50">
 Let's Connect
 </h2>
+</div>
+
+<div align="center">
 <p>
 <a href="https://linkedin.com/in/sabbir2211" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
