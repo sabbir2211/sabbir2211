@@ -116,15 +116,12 @@ Featured Projects
 
 <div align="center">
 <!-- Project 1 - Replace with your actual repos -->
-<a href="https://github.com/sabbir2211/Aura-buds.git">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sabbir2211&repo=project1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
-</a>
-&nbsp;&nbsp;
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=sabbir2211&repo=termux-extra-key&theme=radical)
 <!-- Project 2 -->
-<a href="https://github.com/sabbir2211/project2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sabbir2211&repo=project2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
-</a>
-</div>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=sabbir2211&repo=Aura-buds&theme=radical)
+
+
 
 <!-- Trophies Section 
 <div align="center">
