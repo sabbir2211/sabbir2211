@@ -24,7 +24,7 @@
 <!-- About Me Section -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXVhcDhsaTA5ZHV0Y2dxaHY2dW8wejFzMHdvcGZ0amlhem1neXR4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iTvrxOWkpnYgwtYMxR/giphy.gif" width="35">
     About Me
   </h2>
 </div>
@@ -90,7 +90,7 @@ GitHub Analytics
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=sabbir2211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=sabbir2211&show_icons=true&theme=github_dark" alt="GitHub Stats" />
 </td>
 <td>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabbir2211&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ffd700&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
@@ -106,7 +106,7 @@ GitHub Analytics
 <!-- Featured Projects Section -->
 <div align="center">
 <h2>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBhaG00NG02NDEzOHc4NHFybHo5MGF4a3djZWd1Mjdsenk3MnEydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JisLUwrUDtkcwolXse/giphy.gif" width="45">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJpbm1qYTY4OGYwOHN0M2Zzb3c2emRzOTQyOWt5NHJjMzdxdWJpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YqWwG9OLqD3LzbGoZU/giphy.gif" width="35">
 Featured Projects
 </h2>
 </div>
@@ -135,7 +135,7 @@ GitHub Trophies
 <!-- Connect Section -->
 <div align="center">
 <h2>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam00MGp5bzJqYXpqeGE5YXl3aDR4YmU2OTJoMTF5Y2g0ajU2aGhocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sWQCF6RxYQN7rjSXQE/giphy.gif" width="35">
 Let's Connect
 </h2>
 <p>
