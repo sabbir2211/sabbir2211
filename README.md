@@ -113,7 +113,6 @@ GitHub Analytics
 <!-- Featured Projects Section -->
 <br />
 <br />
-<br />
 
 <div align="center">
 <h2>
