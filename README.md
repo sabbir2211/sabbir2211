@@ -106,7 +106,7 @@ GitHub Analytics
 <!-- Featured Projects Section -->
 <div align="center">
 <h2>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJpbm1qYTY4OGYwOHN0M2Zzb3c2emRzOTQyOWt5NHJjMzdxdWJpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YqWwG9OLqD3LzbGoZU/giphy.gif" width="35">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTIwdHM1ZHJwMDR4ODc5ZjlmcXJ4czU0MWNpY2owbmU1eXU3cjY4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ph4ZgvibKhSZpezdyi/giphy.gif" width="35">
 Featured Projects
 </h2>
 </div>
