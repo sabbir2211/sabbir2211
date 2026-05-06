@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hello%2C%20I'm%20%20SABBIR%20👋🏼&fontSize=50&fontAlignY=40&desc=Passionate%20about%20building%20amazing%20things&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00d4ff&center=true&vCenter=true&width=435&lines=Hello+World!👋;I'm+Sabbir+Ahmed;Full+Stack+Developer;Always+Learning+🚀)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00d4ff&center=true&vCenter=true&width=435&lines=Hello+World!👋🏼;I'm+Sabbir+Ahmed;Full+Stack+Developer;Always+Learning+🚀)
 
 <!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=sabbir2211&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
